@@ -4,4 +4,6 @@ Model is deployed using a Flask API
 To Run the Application:
 Execute in Terminal: 'python app.py'
 
-Trained Model is saved in the model folder
+Input prediction function is in 'test.py'
+
+Trained Model is saved in the 'model' folder
