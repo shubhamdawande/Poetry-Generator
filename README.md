@@ -1,2 +1,2 @@
--> A shakespear style sonnets generator model built using Deep LSTM network
--> Model is deeployed using a Flask API
+-> A shakespear style sonnets generator model built using deep LSTM network with 3 hidden layers                                                
+-> Model is deployed using a Flask API
